@@ -1,0 +1,445 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0">
+  <diagram name="AI Models Comparison" id="comparison">
+    <mxGraphModel dx="1600" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1500">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <!-- Title -->
+        <mxCell id="title" value="🤖 AI Models Comprehensive Comparison Matrix 2026" style="text;html=1;align=center;verticalAlign=middle;fontSize=24;fontStyle=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="1200" height="40" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="subtitle" value="Including Claude Opus 4.6 | Updated: February 13, 2026" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fillColor=none;strokeColor=none;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="500" y="60" width="600" height="20" as="geometry"/>
+        </mxCell>
+        
+        <!-- Header Background -->
+        <mxCell id="header-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1a1a1a;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="1600" height="50" as="geometry"/>
+        </mxCell>
+        
+        <!-- Headers -->
+        <mxCell id="h0" value="Category" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fillColor=none;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="140" height="30" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="h1" value="Sonnet 4.5" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontStyle=1;fillColor=none;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="110" width="140" height="30" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="h2" value="⭐ Opus 4.6" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontStyle=1;fillColor=none;strokeColor=none;fontColor=#FFD700;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="140" height="30" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="h3" value="GPT-4 Turbo" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontStyle=1;fillColor=none;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="140" height="30" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="h4" value="GPT-4o" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontStyle=1;fillColor=none;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="110" width="140" height="30" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="h5" value="o1-preview" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontStyle=1;fillColor=none;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="110" width="140" height="30" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="h6" value="Gemini Pro" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontStyle=1;fillColor=none;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="960" y="110" width="140" height="30" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="h7" value="Llama 3 70B" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontStyle=1;fillColor=none;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="110" width="140" height="30" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="h8" value="Mixtral 8x7B" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontStyle=1;fillColor=none;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="110" width="140" height="30" as="geometry"/>
+        </mxCell>
+        
+        <!-- Section: Technical Performance -->
+        <mxCell id="sec1" value="💻 TECHNICAL PERFORMANCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4a148c;fontColor=#FFFFFF;fontStyle=1;fontSize=12;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="1600" height="30" as="geometry"/>
+        </mxCell>
+        
+        <!-- Row: Reasoning -->
+        <mxCell id="r1-label" value="Reasoning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;align=left;spacingLeft=10;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1c1" value="⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1c2" value="⭐⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff9c4;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1c3" value="⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1c4" value="⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1c5" value="⭐⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="190" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1c6" value="⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="950" y="190" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1c7" value="⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="190" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r1c8" value="⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="190" width="150" height="35" as="geometry"/>
+        </mxCell>
+        
+        <!-- Row: Code Generation -->
+        <mxCell id="r2-label" value="Code Generation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;align=left;spacingLeft=10;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="225" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2c1" value="⭐⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="225" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2c2" value="⭐⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff9c4;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="225" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2c3" value="⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="225" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2c4" value="⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="225" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2c5" value="⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="225" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2c6" value="⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="950" y="225" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2c7" value="⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="225" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2c8" value="⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="225" width="150" height="35" as="geometry"/>
+        </mxCell>
+        
+        <!-- Row: Speed -->
+        <mxCell id="r3-label" value="Response Speed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;align=left;spacingLeft=10;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3c1" value="⚡⚡⚡⚡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3c2" value="⚡⚡⚡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff9c4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3c3" value="⚡⚡⚡⚡⚡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="260" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3c4" value="⚡⚡⚡⚡⚡⚡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="260" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3c5" value="⚡⚡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="260" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3c6" value="⚡⚡⚡⚡⚡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="950" y="260" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3c7" value="⚡⚡⚡⚡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="260" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3c8" value="⚡⚡⚡⚡⚡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="260" width="150" height="35" as="geometry"/>
+        </mxCell>
+        
+        <!-- Row: Context Window -->
+        <mxCell id="r4-label" value="Context Window" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;align=left;spacingLeft=10;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="295" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r4c1" value="200K" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="295" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r4c2" value="200K" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff9c4;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="295" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r4c3" value="128K" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="500" y="295" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r4c4" value="128K" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="650" y="295" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r4c5" value="128K" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="800" y="295" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r4c6" value="1M 🏆" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="295" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r4c7" value="8K" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="295" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="r4c8" value="32K" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="295" width="150" height="35" as="geometry"/>
+        </mxCell>
+        
+        <!-- Section: Business & Enterprise -->
+        <mxCell id="sec2" value="💼 BUSINESS &amp; ENTERPRISE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0d47a1;fontColor=#FFFFFF;fontStyle=1;fontSize=12;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="1600" height="30" as="geometry"/>
+        </mxCell>
+        
+        <!-- Row: Enterprise Features -->
+        <mxCell id="rb1-label" value="Enterprise Features" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;align=left;spacingLeft=10;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb1c1" value="⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb1c2" value="⭐⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff9c4;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb1c3" value="⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb1c4" value="⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="370" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb1c5" value="⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="370" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb1c6" value="⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="950" y="370" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb1c7" value="⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="370" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb1c8" value="⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="370" width="150" height="35" as="geometry"/>
+        </mxCell>
+        
+        <!-- Row: API Reliability -->
+        <mxCell id="rb2-label" value="API Reliability" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;align=left;spacingLeft=10;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="405" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb2c1" value="⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="405" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb2c2" value="⭐⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff9c4;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="405" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb2c3" value="⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="405" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb2c4" value="⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="405" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb2c5" value="⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="405" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb2c6" value="⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="950" y="405" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb2c7" value="⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="405" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb2c8" value="⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="405" width="150" height="35" as="geometry"/>
+        </mxCell>
+        
+        <!-- Row: Team Collaboration -->
+        <mxCell id="rb3-label" value="Team Collaboration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;align=left;spacingLeft=10;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="440" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb3c1" value="✅ Yes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb3c2" value="✅✅ Advanced" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff9c4;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb3c3" value="✅ Yes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb3c4" value="✅ Yes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="650" y="440" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb3c5" value="⚠️ Limited" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="800" y="440" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb3c6" value="✅ Yes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="950" y="440" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb3c7" value="🔧 Custom" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="440" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb3c8" value="🔧 Custom" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="440" width="150" height="35" as="geometry"/>
+        </mxCell>
+        
+        <!-- Row: Cost for Enterprise -->
+        <mxCell id="rb4-label" value="Cost for Enterprise" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;align=left;spacingLeft=10;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="475" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb4c1" value="$3/$15 💵" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="200" y="475" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb4c2" value="$15/$75 💰💰" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff9c4;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="350" y="475" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb4c3" value="$10/$30 💰💰" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="500" y="475" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb4c4" value="$5/$15 💰" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="650" y="475" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb4c5" value="$15/$60 💰💰💰" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="800" y="475" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb4c6" value="$0.5/$1.5 💚" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="475" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb4c7" value="Free 🆓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="475" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb4c8" value="Free 🆓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="475" width="150" height="35" as="geometry"/>
+        </mxCell>
+        
+        <!-- Row: Business Intelligence -->
+        <mxCell id="rb5-label" value="Business Intelligence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;align=left;spacingLeft=10;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="510" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb5c1" value="⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="510" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb5c2" value="⭐⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff9c4;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="510" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb5c3" value="⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="510" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb5c4" value="⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="510" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb5c5" value="⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="510" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb5c6" value="⭐⭐⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="950" y="510" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb5c7" value="⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="510" width="150" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="rb5c8" value="⭐⭐⭐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="510" width="150" height="35" as="geometry"/>
+        </mxCell>
+        
+        <!-- Legend -->
+        <mxCell id="legend-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="570" width="1600" height="120" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="legend-title" value="📖 Legend" style="text;html=1;align=left;verticalAlign=top;fontSize=14;fontStyle=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="580" width="100" height="25" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="leg1" value="⭐⭐⭐⭐⭐⭐ = Exceptional (Best-in-class)" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="610" width="250" height="20" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="leg2" value="⭐⭐⭐⭐⭐ = Excellent (Production-ready)" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="610" width="250" height="20" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="leg3" value="⭐⭐⭐⭐ = Good (Reliable)" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="610" width="200" height="20" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="leg4" value="⭐⭐⭐ = Average (Usable)" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="610" width="200" height="20" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="leg5" value="⚡ = Speed  |  💰 = Cost  |  ✅ = Available  |  ❌ = Not available" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="640" width="500" height="20" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="leg6" value="🟡 Yellow = Claude Opus 4.6 (Premium Flagship)" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fillColor=none;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="665" width="300" height="20" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="leg7" value="Pricing: Per 1M tokens (Input/Output)" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fillColor=none;strokeColor=none;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="400" y="665" width="250" height="20" as="geometry"/>
+        </mxCell>
+        
+        <!-- Summary Boxes -->
+        <mxCell id="sum-title" value="🏆 Top Recommendations" style="text;html=1;align=center;verticalAlign=middle;fontSize=16;fontStyle=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="710" width="300" height="30" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="sum1" value="🥇 Best Overall: Claude Opus 4.6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9c4;fontSize=13;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="750" width="370" height="40" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="sum2" value="⚡ Fastest: GPT-4o" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=13;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="750" width="370" height="40" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="sum3" value="🧠 Best Reasoning: o1-preview" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1bee7;fontSize=13;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="830" y="750" width="370" height="40" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="sum4" value="💚 Best Value: Gemini Pro" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c8e6c9;fontSize=13;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="750" width="430" height="40" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="sum5" value="💼 Best for Enterprise: Claude Opus 4.6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9c4;fontSize=13;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="800" width="370" height="40" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="sum6" value="🔒 Best Safety: Claude Sonnet 4.5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=13;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="800" width="370" height="40" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="sum7" value="💻 Best Code Quality: Claude Opus 4.6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9c4;fontSize=13;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="830" y="800" width="370" height="40" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="sum8" value="🆓 Best Open Source: Llama 3 70B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bbdefb;fontSize=13;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="800" width="430" height="40" as="geometry"/>
+        </mxCell>
+        
+        <!-- Important Notes -->
+        <mxCell id="notes-title" value="⚠️ Important Notes:" style="text;html=1;align=left;verticalAlign=top;fontSize=13;fontStyle=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="860" width="200" height="25" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="note1" value="• Claude Opus 4.6 is the flagship model with best performance but higher cost ($15/$75)" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="890" width="600" height="18" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="note2" value="• Sonnet 4.5 offers best value/performance ratio for most enterprise use cases" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="910" width="600" height="18" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="note3" value="• o1-preview has deepest reasoning but is very slow (10-60 seconds per response)" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="930" width="600" height="18" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="note4" value="• Gemini Pro provides exceptional value with 1M token context window at lowest price" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="890" width="600" height="18" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="note5" value="• For business: Opus 4.6 and GPT-4 provide best enterprise features &amp; reliability" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="910" width="600" height="18" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="note6" value="• Open source models (Llama 3, Mixtral) require self-hosting infrastructure" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="930" width="600" height="18" as="geometry"/>
+        </mxCell>
+        
+        <!-- Footer -->
+        <mxCell id="footer" value="💡 Recommended Strategy: Use Opus 4.6 for critical business tasks (10%), Sonnet 4.5 for daily work (80%), GPT-4o for speed (10%)" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontStyle=2;fillColor=#e3f2fd;strokeColor=#64b5f6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="970" width="1600" height="35" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="update-note" value="Last Updated: February 13, 2026 | Data sources: Official provider documentation &amp; benchmarks" style="text;html=1;align=center;verticalAlign=middle;fontSize=9;fillColor=none;strokeColor=none;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1015" width="600" height="20" as="geometry"/>
+        </mxCell>
+        
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
