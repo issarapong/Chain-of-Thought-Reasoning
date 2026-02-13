@@ -2,8 +2,6 @@
 
 เอกสารรวบรวมความรู้เกี่ยวกับ AI Models, Thinking Capabilities และการทำงานของ Large Language Models
 
-> **หมายเหตุ:** โฟลเดอร์นี้ไม่เกี่ยวข้องกับ monitoring infrastructure  
-> สามารถย้ายออกไปยังที่อื่นได้เมื่อต้องการ
 
 ---
 
